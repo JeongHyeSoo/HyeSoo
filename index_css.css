@@ -2,22 +2,21 @@
     
     background-image: url("back1.jpg");
     background-size: cover;
-    padding-top: 300px;
-    padding-bottom: 300px;
 }
 
 
 #maintext{
-    z-index:2;
     text-align: center;
     color:white;
     font-size : 70px;
+    padding-top: 200px;
+    padding-bottom: 300px;
     
 }
 
 #profile{
     text-align:center;
-    padding : 20px;
+    padding : 5px 20px 20px 20px;
 }
 
 #text{
