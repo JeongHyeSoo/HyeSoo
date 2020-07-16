@@ -42,6 +42,10 @@ li{
     height:auto;
         }
 
+#impression{
+    padding : 70px;
+}
+
 /*footer*/
 
 .icon_img{text-align: center;}
