@@ -16,6 +16,11 @@
     font-weight: bold;
 }
 
+.combiLank{
+    width: 900px;
+    height:auto;
+}
+
 
 #progress{
     background-color:rgb(223, 223, 223);
